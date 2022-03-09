@@ -1,0 +1,12 @@
+/*style pro tisk*/
+
+.filter, .skin-button, header, title{
+	display: none;
+}
+
+.chiken ,.reviews-container input[type='submit'], .auth input[type='submit'], .left,.right, .group-button button, .group-modal button, .block-button{
+	border-color: black;
+}
+.star, .left,.right, .comment-form input[type='submit'],.block-button, .group-button button, .auth input[type='submit']{
+	color: black;
+}
